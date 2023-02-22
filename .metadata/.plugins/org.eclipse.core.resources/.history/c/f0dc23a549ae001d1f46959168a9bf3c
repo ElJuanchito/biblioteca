@@ -1,0 +1,9 @@
+package co.edu.uniquindio.biblioteca.model;
+
+public class DetallePrestamo {
+
+	private String codigo;
+	private Double subTotal;
+	private Integer cantidad;
+	private Libro libro;
+}

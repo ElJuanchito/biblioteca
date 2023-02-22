@@ -1,0 +1,8 @@
+package co.edu.uniquindio.biblioteca.model;
+
+public class Prestamo {
+	private String fecha;
+	private String total;
+	private Integer tiempoEntrega;
+	private String codigo;
+}
